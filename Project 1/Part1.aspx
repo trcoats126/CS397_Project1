@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <h3>Part 1 <a href ="Part2.aspx">Part 2</a> <a href ="Part3.aspx">Part 3</a></h3>
+        <h3>Part 1 <a href ="Part2.aspx">Part 2</a> <a href ="Part3.aspx">Part 3</a> <a href="Part4.aspx">Part 4</a></h3>
         <br/>
         Resting Heart Rate:
         <asp:TextBox ID="tbx_RestingHR" runat="server"></asp:TextBox>

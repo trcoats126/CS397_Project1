@@ -31,3 +31,36 @@ c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\M
 c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.csprojResolveAssemblyReference.cache
 c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.dll
 c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.pdb
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\obj\Debug\Project 1.csprojResolveAssemblyReference.cache
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\obj\Debug\Project 1.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\obj\Debug\Project 1.pdb
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\ApplicationInsights.config
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\csc.exe
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\vbc.exe
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Project 1.dll.config
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Project 1.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Project 1.pdb
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.AI.Web.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.AI.Web.xml
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\trcoats\Source\Repos\CS397_Project1\Project 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
