@@ -1,0 +1,33 @@
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\ApplicationInsights.config
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\csc.exe
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\vbc.exe
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\VBCSCompiler.exe
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Project 1.dll.config
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Project 1.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Project 1.pdb
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.AI.Web.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.ApplicationInsights.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.AI.Web.xml
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.ApplicationInsights.xml
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.csprojResolveAssemblyReference.cache
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.dll
+c:\users\trcoats\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.pdb
