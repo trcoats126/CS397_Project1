@@ -109,6 +109,7 @@
     <Content Include="Part2.aspx" />
     <Content Include="Part1.aspx" />
     <Content Include="Part3.aspx" />
+    <Content Include="Part4.aspx" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Web.config" />
@@ -134,6 +135,13 @@
     </Compile>
     <Compile Include="Part3.aspx.designer.cs">
       <DependentUpon>Part3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Part4.aspx.cs">
+      <DependentUpon>Part4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Part4.aspx.designer.cs">
+      <DependentUpon>Part4.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
